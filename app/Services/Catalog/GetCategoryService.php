@@ -2,7 +2,7 @@
 
 namespace App\Services\Catalog;
 
-use App\DataTransferObjects\Tecdoc\CategoryReadCollection;
+use App\Domain\Tecdoc\CategoryReadCollection;
 use App\Models\Tecdoc\SeoCategory;
 
 class GetCategoryService{

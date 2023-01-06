@@ -3,7 +3,7 @@
 namespace App\Services\Catalog;
 
 use App\Models\Tecdoc\SeoMaker;
-use App\DataTransferObjects\Tecdoc\MakerReadCollection;
+use App\Domain\Tecdoc\MakerReadCollection;
 
 final class GetMakerService{
 

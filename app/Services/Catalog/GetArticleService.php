@@ -2,7 +2,7 @@
 
 namespace App\Services\Catalog;
 
-use App\DataTransferObjects\Tecdoc\ArticleReadCollection;
+use App\Domain\Tecdoc\ArticleReadCollection;
 use App\Models\Tecdoc\Article;
 
 class GetArticleService{

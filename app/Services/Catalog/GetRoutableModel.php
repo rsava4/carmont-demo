@@ -2,7 +2,7 @@
 
 namespace App\Services\Catalog;
 
-use App\DataTransferObjects\Catalog\RoutableModel;
+use App\Domain\Catalog\RoutableModel;
 use App\Models\Tecdoc\SeoCarRoute;
 
 final  class GetRoutableModel{
